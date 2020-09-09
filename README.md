@@ -17,7 +17,7 @@
 
 
 ## Languages and Tools:
-[<img with="26" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />](https://code.visualstudio.com/)
+[<img src="vscode.svg" width="26">](https://code.visualstudio.com/)
 [<img align="left" alt="Flutter" with="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />]
 [<img align="left" alt="Firestore | Firebase" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]
 [<img align="left" alt="Python 3" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
