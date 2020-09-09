@@ -1,4 +1,4 @@
-### Hello everyone, I'm Serdar
+### Hello everyone, I'm Serdar 👋🏻
 
 ## I'm Developer, Student and Teacher
 - 💻 I'm developer. So, I'm fullstack web developer, frontend mobile developer
