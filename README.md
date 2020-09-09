@@ -10,8 +10,6 @@
 [<img src="twitter.png" width="30">](https://www.twitter.com/serdarplt_)
 [<img src="gmail.png" width="30">](mailto:serdar.plt21@gmail.com)
 
-<br />
-
 ## Youtube Channel:
 [<img src="youtube.png" width="30">](https://www.youtube.com/channel/UCcGkVD4b22EOGSDdnnJ2QkA?view_as=subscriber)
 
@@ -21,7 +19,7 @@
 [<img src="flutter.png" width="30">](https://flutter.dev/)
 [<img src="firebase.png" width="30">](https://firebase.google.com/)
 [<img src="python.png" width="30">](https://www.python.org/)
-[<img src="pycharm.png" width="30">](https://www.jetbrains.com/pycharm/)
+[<img src="pycharm.png" width="30">]
 [<img src="android_studio.png" width="30">](https://developer.android.com/studio)
 [<img src="php.png" width="30">](https://www.php.net/)
 [<img src="mysql.png" width="30">](https://www.mysql.com/)
