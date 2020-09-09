@@ -11,7 +11,7 @@
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/gmail.png" width="30">](mailto:serdar.plt21@gmail.com)
 
 ## Youtube Channel:
-[<img src="https://github.com/serdarpolat/serdarpolat/blob/master/youtube.png" width="30">](https://www.youtube.com/channel/UCcGkVD4b22EOGSDdnnJ2QkA?view_as=subscriber)
+[<img src="https://github.com/serdarpolat/serdarpolat/blob/master/youtube.png" height="30">](https://www.youtube.com/channel/UCcGkVD4b22EOGSDdnnJ2QkA?view_as=subscriber)
 
 
 ## Languages and Tools:
