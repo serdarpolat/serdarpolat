@@ -18,3 +18,5 @@
 
 ## Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=serdarpolat&show_icons=true&)](https://github.com/serdarpolat/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serdarpolat)](https://github.com/serdarpolat/github-readme-stats)
