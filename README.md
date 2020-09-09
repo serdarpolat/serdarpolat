@@ -15,7 +15,7 @@
 
 
 ## Languages and Tools:
-<img src="serdarpolat/serdarpolat/vscode.png" width="30"><img src="vscode.png" width="30"><img src="vscode.png" width="30">
+<img src="https://github.com/serdarpolat/serdarpolat/blob/master/vscode.png" width="30"><img src="vscode.png" width="30"><img src="vscode.png" width="30">
 [<img src="vscode.png" width="30">](https://code.visualstudio.com/)
 [<img src="flutter.png" width="30">](https://flutter.dev/)
 [<img src="firebase.png" width="30">](https://firebase.google.com/)
