@@ -15,16 +15,4 @@
 
 
 ## Languages and Tools:
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/vscode.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/firebase.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/python.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/pycharm.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/android_studio.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/sqlite.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/nodejs.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/laravel.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/java.png" width="30">
-<img src="https://github.com/serdarpolat/serdarpolat/blob/master/netbeans.png" width="30">
+<img src="https://github.com/serdarpolat/serdarpolat/blob/master/vscode.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/firebase.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/python.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/pycharm.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/android_studio.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/sqlite.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/nodejs.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/laravel.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/java.png" width="30"><img src="https://github.com/serdarpolat/serdarpolat/blob/master/netbeans.png" width="30">
