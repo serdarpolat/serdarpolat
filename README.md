@@ -13,7 +13,7 @@
 <br />
 
 ## Youtube Channel:
-[<img align="left" alt="Serdar Polat | YouTube" with="22px" src="youtube.svg" />][youtube]
+["Serdar Polat | YouTube"](youtube.svg | with=22)[youtube]
 
 
 ## Languages and Tools:
