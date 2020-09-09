@@ -18,18 +18,18 @@
 
 ## Languages and Tools:
 [<img src="vscode.svg" width="26">](https://code.visualstudio.com/)
-[<img align="left" alt="Flutter" with="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />]
-[<img align="left" alt="Firestore | Firebase" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]
-[<img align="left" alt="Python 3" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="PyCharm" with="26px" src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W_400x400.jpg" />]
-[<img align="left" alt="Android Studio" with="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" />]
-[<img align="left" alt="PHP" with="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />]
-[<img align="left" alt="MySQL" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="SQLite" with="26px" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" />]
-[<img align="left" alt="NodeJS" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="Laravel" with="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />]
-[<img align="left" alt="Java" with="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="Netbeans" with="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />]
+[<img src="flutter.svg" width="26">](https://flutter.dev/)
+[<img src="firebase.png" width="26">](https://firebase.google.com/)
+[<img src="python.svg" width="26">](https://www.python.org/)
+[<img src="pycharm.png" width="26">](https://www.jetbrains.com/pycharm/)
+[<img src="android-studio.png" width="26">](https://developer.android.com/studio)
+[<img src="php.svg" width="26">](https://www.php.net/)
+[<img src="mysql.svg" width="26">](https://www.mysql.com/)
+[<img src="sqlite.svg" width="26">](https://www.sqlite.org/index.html)
+[<img src="nodejs.svg" width="26">](https://nodejs.org/en/)
+[<img src="https://laravel.com/img/logomark.min.svg" width="26">](https://laravel.com/)
+[<img src="java.svg" width="26">](https://www.java.com/en/)
+[<img src="netbeans.png" width="26">](https://netbeans.org/)
 
 <br />
 <br />
