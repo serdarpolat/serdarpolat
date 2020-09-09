@@ -13,7 +13,7 @@
 <br />
 
 ## Youtube Channel:
-[<img src="youtube.svg" width="26">](https://www.youtube.com/channel/UCcGkVD4b22EOGSDdnnJ2QkA?view_as=subscriber)
+[<img src="youtube.svg" width="26">]([youtube])
 
 
 ## Languages and Tools:
