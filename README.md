@@ -7,7 +7,7 @@
 - 🏋🏻‍♂️ I'm ready to get a new job
 
 ## Contact to me:
-[<img src="twitter.svg" width="30">](https://www.twitter.com/serdarplt_)
+[<img src="twitter.png" width="30">](https://www.twitter.com/serdarplt_)
 [<img src="gmail(1).svg" width="30">](mailto:serdar.plt21@gmail.com)
 
 <br />
