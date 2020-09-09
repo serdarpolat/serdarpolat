@@ -7,7 +7,7 @@
 - 🏋🏻‍♂️ I'm ready to get a new job
 
 ## Contact to me:
-[<img align="left" alt="Serdar Polat | Twitter" with="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+[<img src="gmail(1).svg" width="26">](mailto:serdarplt21@gmail.com)
 [<img align="left" alt="Serdar Polat | Gmail" with="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />][gmail]
 
 <br />
