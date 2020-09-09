@@ -13,7 +13,7 @@
 <br />
 
 ## Youtube Channel:
-[Image]<img src="youtube.svg" width="100" height="100">
+[]<img src="youtube.svg" width="26">
 
 
 ## Languages and Tools:
