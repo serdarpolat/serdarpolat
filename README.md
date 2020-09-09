@@ -4,7 +4,7 @@
 - 💻 I'm developer. So, I'm fullstack web developer, frontend mobile developer
 - 📖 I'm student. So, I like to learn new things. I adopt the philosophy of lifelong learning
 - 🎓 I'm teacher. So, I love teaching things (what I know) to people who want to learn
-- 🏋🏻‍♂️ I'm ready to get a new job
+- 🛠 I'm ready to get a new job
 
 ## Reach to me:
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/twitter.png" width="30">](https://www.twitter.com/serdarplt_)
