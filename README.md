@@ -13,8 +13,8 @@
 ## Youtube Channel:
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/youtube.png" height="30">](https://www.youtube.com/channel/UCcGkVD4b22EOGSDdnnJ2QkA?view_as=subscriber)
 
-
 ## Languages and Tools:
 <img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/python.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/nodejs.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/firebase.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/sqlite.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/laravel.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/java.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/vscode.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/android_studio.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/pycharm.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/netbeans.png" height="30">
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=serdarpolat&show_icons=true)](https://github.com/serdarpolat/github-readme-stats)
+## Stats
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=serdarpolat&show_icons=true&)](https://github.com/serdarpolat/github-readme-stats)
