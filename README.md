@@ -13,7 +13,7 @@
 <br />
 
 ## Youtube Channel:
-[["Serdar Polat | YouTube"](youtube.svg | with=22)](https://youtu.be/hBZsEiU3C50)
+![](youtube.svg | width=100)
 
 
 ## Languages and Tools:
