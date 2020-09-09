@@ -30,10 +30,3 @@
 [<img src="https://laravel.com/img/logomark.min.svg" width="30">](https://laravel.com/)
 [<img src="java.svg" width="30">](https://www.java.com/en/)
 [<img src="netbeans.png" width="30">](https://netbeans.org/)
-
-<br />
-<br />
-
-[twitter]: "https://www.twitter.com/serdarplt_"
-[gmail]: "mailto:serdar.plt21@gmail.com"
-[youtube]: "https://www.youtube.com/channel/UCcGkVD4b22EOGSDdnnJ2QkA?view_as=subscriber"
