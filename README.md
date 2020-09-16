@@ -6,7 +6,8 @@
 - 🎓 I'm teacher. So, I love teaching things (what I know) to people who want to learn
 - 🛠 I'm ready to get a new job
 
-### Reach to me:
+### Do you have any project idea or plan? Let's work together.
+### I am available for new peojects.
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/twitter.png" width="30">](https://www.twitter.com/serdarplt_)
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/gmail.png" width="30">](mailto:serdar.plt21@gmail.com)
 
