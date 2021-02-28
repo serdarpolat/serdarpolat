@@ -16,8 +16,10 @@
 ### Languages and Tools:
 <img src="https://github.com/serdarpolat/serdarpolat/blob/master/flutter.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/python.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/php.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/nodejs.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/firebase.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/mysql.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/sqlite.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/laravel.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/java.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/vscode.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/android_studio.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/pycharm.png" height="30"> <img src="https://github.com/serdarpolat/serdarpolat/blob/master/netbeans.png" height="30">
 
-### Stats
 <p align="center">
+  ## Stats
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=serdarpolat&show_icons=true&include_all_commits=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarpolat&langs_count=10&layout=compact" alt="serdarpolat :: Top Langs" />
