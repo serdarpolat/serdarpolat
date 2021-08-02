@@ -7,7 +7,6 @@
 - 🛠  I'm ready to get a new job
 
 ### Do you have any project idea or plan? Let's work together. I am available for new peojects.
-[<img src="https://github.com/serdarpolat/serdarpolat/blob/master/twitter.png" width="30">](https://www.twitter.com/serdarplt_)
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/gmail.png" width="30">](mailto:serdar.plt21@gmail.com)
 [<img src="https://github.com/serdarpolat/serdarpolat/blob/master/linkedin.png" width="30">](https://www.linkedin.com/in/serdar-polat-40287911b/)
 
